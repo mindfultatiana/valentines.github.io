@@ -1,6 +1,6 @@
 # Valentines Day Card
 I wanted to create an opensource hosted valentines day card for someone special. 
-[Valentines Day Card Here](https://valentines.github.io/)
+[Valentines Day Card Here](https://mindfultatiana.github.io/valentines.github.io/)
 
 ### Problem: 
 Digitally bridging the distance and making something custom. 
@@ -34,5 +34,5 @@ Add music player to webpage:
 -  I found a tutorial on adding a song to your webpage with HTML by Geek Tutorials [Here](https://www.youtube.com/watch?v=9F49XgzlZgA).
 ### Step 4
 Set up GitHub Pages
--  I followed instructions on how to create the GitHub Page [Here](https://pages.github.com/).
+-  I followed instructions on how to create the GitHub Page [Here](https://pages.github.com/) and [Here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
 -  It's launched and it looks amazing!
