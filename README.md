@@ -14,7 +14,7 @@ I think this project is special because it's heartfelt and was built with a lot 
 ## Tech Stack
 HTML, CSS, GitHub Pages, Prettier
 
-![image](https://github.com/mindfultatiana/ValentinesCard/assets/13071148/0faf17f2-3c94-4e59-be41-e24430b3106d)
+![image](https://github.com/mindfultatiana/valentinesday2024/assets/13071148/e94484f3-5de8-4e40-a48d-075f1c05c6ff)
 
 ## Steps
 ### Step 1
