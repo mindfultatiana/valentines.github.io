@@ -1,6 +1,6 @@
 # Valentines Day Card
 I wanted to create an opensource hosted valentines day card for someone special. 
-[Valentines Day Card Here](https://mindfultatiana.github.io/valentines.github.io/)
+[Valentines Day Card Here](https://mindfultatiana.github.io/valentinesday2024/)
 
 ### Problem: 
 Digitally bridging the distance and making something custom. 
